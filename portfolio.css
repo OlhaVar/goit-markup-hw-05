@@ -431,6 +431,7 @@ button {
   height: 100%;
   background: rgba(255, 255, 255, 0.1);
   color: var(--white-color);
+
   border-radius: 50%;
   transition: background-color var(--timing-function) var(--time250ms);
 }
