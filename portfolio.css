@@ -6,7 +6,7 @@
   --body-color: #e5e5e5;
   --dark-gray-color: #2f303a;
   --bgc-txt-color: rgba(33, 150, 243, 0.9);
-  --time250ms: 2000ms;
+  --time250ms: 250ms;
   --timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
 
