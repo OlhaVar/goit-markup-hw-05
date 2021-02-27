@@ -462,7 +462,7 @@ body {
   border: 1px solid #afb1b8;
   border-radius: 4px;
   transition: border var(--timing-function) var(--time250ms),
-    color var(--timing-function);
+    color var(--timing-function) var(--time250ms);
 }
 
 .clients .clients-link:hover,
